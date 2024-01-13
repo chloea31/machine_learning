@@ -1,0 +1,17 @@
+name: EnvML
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - plotly
+  - pip
+  - numpy
+  - pandas
+  - jupyter
+  - scipy
+  - matplotlib
+  - pip:
+    - scikit-learn
+    - dash
+    - jupyter-dash
