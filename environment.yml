@@ -15,3 +15,5 @@ dependencies:
     - scikit-learn
     - dash
     - jupyter-dash
+    - graphviz
+    - pydotplus
