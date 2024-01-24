@@ -11,6 +11,7 @@ dependencies:
   - jupyter
   - scipy
   - matplotlib
+  - seaborn
   - pip:
     - scikit-learn
     - dash
