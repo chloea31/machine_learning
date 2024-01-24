@@ -12,7 +12,7 @@
 
 ## Description
 
-This project reports the exercises I am currently doing about machine learning. It includes exercises from the Kaggle website (kaggle.com).
+This project reports the exercises I am currently doing about machine learning. It includes exercises from the Kaggle website [Kaggle](https://kaggle.com).
 
 <a name="req"></a> 
 
@@ -46,3 +46,13 @@ This project is developed by Chloé Aujoulat.
 <a name="references"></a> 
 
 ## References
+
+### Links / Websites
+
+[sklearn](https://scikit-learn.org)
+[Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
+[Algorithms classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
+[Train Test Split](https://builtin.com/data-science/train-test-split)
+[Decision tree classification](https://www.datacamp.com/tutorial/decision-tree-classification-python)
+
+### Articles
