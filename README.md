@@ -49,10 +49,10 @@ This project is developed by Chloé Aujoulat.
 
 ### Links / Websites
 
-[sklearn](https://scikit-learn.org)
-[Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
-[Algorithms classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
-[Train Test Split](https://builtin.com/data-science/train-test-split)
-[Decision tree classification](https://www.datacamp.com/tutorial/decision-tree-classification-python)
+- [sklearn](https://scikit-learn.org)
+- [Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
+- [Algorithms classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
+- [Train Test Split](https://builtin.com/data-science/train-test-split)
+- [Decision tree classification](https://www.datacamp.com/tutorial/decision-tree-classification-python)
 
 ### Articles
