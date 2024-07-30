@@ -54,5 +54,6 @@ This project is developed by Chloé Aujoulat.
 - [Algorithms classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501)
 - [Train Test Split](https://builtin.com/data-science/train-test-split)
 - [Decision tree classification](https://www.datacamp.com/tutorial/decision-tree-classification-python)
+- [Statistical analysis - Graphs and variables](https://editor.analyticsvidhya.com/uploads/78011Picture3.png)
 
 ### Articles
